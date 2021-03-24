@@ -1,8 +1,6 @@
 ![Welcome Banner](banner.gif)
 
 
-<img align="left" height="270px" alt="hello_world" src="pic.png" />
-
 <h3> :I AM JEDAH --- j4jedah: &nbsp;About Me </h3>
 
 - 😄 Pronouns: He/Him/His/... 
