@@ -1,5 +1,5 @@
-!Welcome To Ma World  :collision: :tada: 
-!I gotta :gift:
+!Welcome To Ma World  :collision: :tada:  <br>
+!I gotta :gift: for you
 
 
 <h3> :I AM JEDAH --- j4jedah: &nbsp;About Me </h3>
