@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I DO NOT ACCEPT COOKIES 🖖
 
 <br/>
-
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=j4jedah&layout=compact">
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - :space_invader:
@@ -39,12 +39,26 @@
 
 <br/>
 
+<img src='https://github.com/j4jedah/j4jedah/blob/master/images/c-original.svg' width='30' /> <img
+    src='https://github.com/j4jedah/j4jedah/blob/master/images/cpp.svg' width='30' /> <img
+    src='https://github.com/j4jedah/j4jedah/blob/master/images/pycharm.svg' width='30' /> <img
+    src='https://github.com/j4jedah/j4jedah/blob/master/images/python2.png' height='30' /> <img
+    src='https://github.com/j4jedah/j4jedah/blob/master/images/flutter-logo.svg' width='30' /> <img
+    src='https://github.com/j4jedah/j4jedah/blob/master/images/html.svg' width='30' /> <img
+    src='https://github.com/j4jedah/j4jedah/blob/master/images/css.svg' width='30' /> <img
+    src='https://github.com/j4jedah/j4jedah/blob/master/images/js.svg' width='30' /> <img
+    src='https://github.com/j4jedah/j4jedah/blob/master/images/bootstrap.svg' width='33' /> <img
+    src='https://github.com/j4jedah/j4jedah/blob/master/images/django.svg' height='40' /> <img
+    src='https://github.com/j4jedah/j4jedah/blob/master/images/flask.png' width='30' /> <img
+    src='https://github.com/j4jedah/j4jedah/blob/master/images/php.svg' width='40' />
+<img src='https://github.com/j4jedah/j4jedah/blob/master/images/sql.svg' width='30' /> <img
+    src='https://github.com/j4jedah/j4jedah/blob/master/images/git.svg' width='30' />
+
 <p>
 
 ## 📝 Recent Projects
-### [ Using Dating Profiles to Predict Occupation: ](https://github.com/j4jedah/Representative_Profiles_Machine_Learning_Project)<br>
-Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
+### [ Using Dating Profiles to Predict Occupation: ](https://github.com/j4jedah/LoveCalculator)<br>
+This is a simple Love Calculator which displays love percentage based on names. <br> We all know that a name can tell a lot about a person. Names are not randomly chosen: they all have a meaning. Psychologist knew this so they made another great invention just for the LONELY YOU!
 
 ### [ Kings County Housing Price Prediction: ](https://github.com/j4jedah/Kings_County_Seattle_Housing_Project)<br>
 Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
