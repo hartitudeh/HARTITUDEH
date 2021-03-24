@@ -1,4 +1,5 @@
-![Welcome Banner](banner.gif)
+!Welcome To Ma World  :collision: :tada: 
+!I gotta :gift:
 
 
 <h3> :I AM JEDAH --- j4jedah: &nbsp;About Me </h3>
