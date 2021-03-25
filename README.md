@@ -2,7 +2,7 @@
 !I gotta :gift: for you
 
 
-<h3> :I AM JEDAH --- j4jedah: &nbsp;About Me </h3>
+<h3> :I AM JEDAH --- j4jedah: &nbsp;About Me </h3> 
 
 - 😄 Pronouns: He/Him/His/... 
 - 🔭 I’m currently working at: Thrillers Group as a Technical officer... hurray  :triumph: :triumph:
@@ -39,33 +39,31 @@
 
 <br/>
 
-<img src='https://github.com/j4jedah/j4jedah/blob/master/images/c-original.svg' width='30' /> <img
-    src='https://github.com/j4jedah/j4jedah/blob/master/images/cpp.svg' width='30' /> <img
-    src='https://github.com/j4jedah/j4jedah/blob/master/images/pycharm.svg' width='30' /> <img
-    src='https://github.com/j4jedah/j4jedah/blob/master/images/python2.png' height='30' /> <img
-    src='https://github.com/j4jedah/j4jedah/blob/master/images/flutter-logo.svg' width='30' /> <img
-    src='https://github.com/j4jedah/j4jedah/blob/master/images/html.svg' width='30' /> <img
-    src='https://github.com/j4jedah/j4jedah/blob/master/images/css.svg' width='30' /> <img
-    src='https://github.com/j4jedah/j4jedah/blob/master/images/js.svg' width='30' /> <img
-    src='https://github.com/j4jedah/j4jedah/blob/master/images/bootstrap.svg' width='33' /> <img
-    src='https://github.com/j4jedah/j4jedah/blob/master/images/django.svg' height='40' /> <img
-    src='https://github.com/j4jedah/j4jedah/blob/master/images/flask.png' width='30' /> <img
-    src='https://github.com/j4jedah/j4jedah/blob/master/images/php.svg' width='40' />
-<img src='https://github.com/j4jedah/j4jedah/blob/master/images/sql.svg' width='30' /> <img
-    src='https://github.com/j4jedah/j4jedah/blob/master/images/git.svg' width='30' />
-
+<img src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/c-original.svg' width='30' /> <img
+    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/cpp.svg' width='30' />     <img
+    src='https://raw.githubusercontent.com/j4jedah/j4jedah/main/images/python2.png' height='30' /> <img
+    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/flutter-logo.svg' width='30' /> <img
+    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/html.svg' width='30' /> <img
+    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/css.svg' width='30' /> <img
+    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/js.svg' width='30' /> <img
+    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/bootstrap.svg' width='33' /> <img
+    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/django.svg' height='40' /> <img
+    src='https://raw.githubusercontent.com/j4jedah/j4jedah/main/images/flask.png' width='30' /> <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1616688227~hmac=18ec1dfe5f2ec756e34e77bcf969eb41" width="30" alt=""> <img
+    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/php.svg' width='40' />
+<img src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/sql.svg' width='30' /> <img
+    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/git.svg' width='30' />     
 <p>
 
 ## 📝 Recent Projects
-### [ Love Calculator: ](https://github.com/j4jedah/LoveCalculator)<br>
+### [ Love Calculator: ](https://j4jedah.github.io/LoveCalculator)<br>
 This is a simple Love Calculator which displays love percentage based on names. <br> We all know that a name can tell a lot about a person. Names are not randomly chosen: they all have a meaning. Psychologist knew this so they made another great invention just for the LONELY YOU!
 
-### [ Kings County Housing Price Prediction: ](https://github.com/j4jedah/Kings_County_Seattle_Housing_Project)<br>
+### [ Kings County Housing Price Prediction: ](https://j4jedah.github.io/j4jedah/Kings_County_Seattle_Housing_Project)<br>
 Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
 
-### [ Yelp ETL Project Analysis: ](https://github.com/j4jedah/Yelp_API_ETL_Project)<br>
+### [ Yelp ETL Project Analysis: ](https://j4jedah.github.io/j4jedah/Yelp_API_ETL_Project)<br>
 EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
 Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
