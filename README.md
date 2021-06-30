@@ -60,15 +60,6 @@
 ### [ Love Calculator: ](https://j4jedah.github.io/LoveCalculator)<br>
 This is a simple Love Calculator which displays love percentage based on names. <br> We all know that a name can tell a lot about a person. Names are not randomly chosen: they all have a meaning. Psychologist knew this so they made another great invention just for the LONELY YOU!
 
-### [ Kings County Housing Price Prediction: ](https://j4jedah.github.io/j4jedah/Kings_County_Seattle_Housing_Project)<br>
-Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
-
-
-### [ Yelp ETL Project Analysis: ](https://j4jedah.github.io/j4jedah/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
-
 </p>
 
 
