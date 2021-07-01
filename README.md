@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I DO NOT ACCEPT COOKIES 🖖
 
 <br/>
-<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=j4jedah&layout=compact"> -->
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=j4jedah&layout=compact">
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - :space_invader:
