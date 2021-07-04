@@ -8,7 +8,6 @@
 - 🔭 I’m currently working at: Thrillers Group as a Technical officer... hurray  :triumph: :triumph:
 - 💻 Currently participating in: #100DaysOfCode ft. Python, Javascript, React and Adobe Illustrator
 - :heart: My favorite language every day of the week is: JAVASCRIPT  :fire: :fire:
-- 🌱 I’m currently learning: Ethical Hacking and OOP with Javascript
 - 👯 I’m always looking to collaborate with: scientist from any field, developers of any level and clients with passions
 - 💬 Ask me about: anything, I am happy to help  :innocent:
 - 🌍 I support: Myself, Elon Musk's interplanetary mission, Afforestation and Crypto Currency
