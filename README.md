@@ -2,7 +2,7 @@
 !I gotta :gift: for you
 
 
-<h3> :I AM JEDAH --- j4jedah: &nbsp;About Me </h3> 
+<h3> :I AM HARTITUDEH --- Hartitudeh: &nbsp;About Me </h3> 
 
 - 😄 Pronouns: He/Him/His/... 
 - 🔭 I’m currently working at: Thrillers Group as a Technical officer... hurray  :triumph: :triumph:
