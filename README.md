@@ -90,6 +90,6 @@ This is a simple Love Calculator which displays love percentage based on names. 
 </p>
 
 -----
-Credit: [j4jedah](https://github.com/j4jedah)
+Credit: [Hartitudeh](https://github.com/HARTITUDEH)
 
 ### Last edited on: Today
