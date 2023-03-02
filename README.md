@@ -26,30 +26,11 @@ Overall, I am a committed and knowledgeable software engineer that is passionate
 - ⚡ Fun fact: I DO NOT ACCEPT COOKIES 🖖
 
 <br/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=j4jedah&layout=compact">
-<h3> 🛠 &nbsp;Tech Stack</h3>
 
 
 
 
 <br/>
-
-## 🍁 I wanna know
-
-<img src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/c-original.svg' width='30' /> <img
-    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/cpp.svg' width='30' />     <img
-    src='https://raw.githubusercontent.com/j4jedah/j4jedah/main/images/python2.png' height='30' /> <img
-    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/flutter-logo.svg' width='30' /> <img
-    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/html.svg' width='30' /> <img
-    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/css.svg' width='30' /> <img
-    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/js.svg' width='30' /> <img
-    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/bootstrap.svg' width='33' /> <img
-    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/django.svg' height='40' /> <img
-    src='https://raw.githubusercontent.com/j4jedah/j4jedah/main/images/flask.png' width='30' /> <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1616688227~hmac=18ec1dfe5f2ec756e34e77bcf969eb41" width="30" alt=""> <img
-    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/php.svg' width='40' />
-<img src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/sql.svg' width='30' /> <img
-    src='https://raw.githubusercontent.com/j4jedah/j4jedah/0fec798a13c75b045bff31fead9e21270592344a/images/git.svg' width='30' />     
-<p>
 
 ## 📝 Recent Projects
 ### [ Love Calculator: ](https://j4jedah.github.io/LoveCalculator)<br>
