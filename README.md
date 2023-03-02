@@ -2,7 +2,18 @@
 !I gotta :gift: for you
 
 
-<h3> :I AM HARTITUDEH --- Hartitudeh: &nbsp;About Me </h3> 
+<h3> :I AM Adeyemi Pelumi (a.k.a)--- Hartitudeh_Tech: &nbsp;About Me </h3> 
+I am a talented and seasoned web engineer who is passionate about writing original and effective code. I have more than 3 years of experience in the field and a background in computer science, and I have a track record of producing high-quality software on schedule and within budget.
+
+Reactjs, PHP, and MySQL are just a few of the many programming languages and technologies that I have familiar with. I have experience working in both small and large development teams, and I am knowledgeable about Agile approaches.
+
+I am skilled in using ReactJS, a well-liked JavaScript library, to construct intricate single-page applications. I am able to write reusable, modular code that is simple to maintain and update since I have a solid understanding of React's component-based architecture. I am also skilled at successfully managing state and props to create interfaces that are simple to use.
+
+I have extensive knowledge of the PHP programming language and its many frameworks, including Laravel, CodeIgniter, and Symfony. I have experience using MySQL and other databases, and I am capable of designing and implementing strong back-end systems that underpin contemporary online applications.
+
+My experience working on multidisciplinary teams has given me good communication skills and the capacity to cooperate with others to achieve shared objectives. I pick things up quickly and am constantly keen to broaden my skill set and take on new challenges.
+
+Overall, I am a committed and knowledgeable software engineer that is passionate about coming up with elegant and useful solutions to difficult challenges. I'm constantly seeking fresh chances to use my abilities and add to creative initiatives.
 
 - 😄 Pronouns: He/Him/His/... 
 - 🔭 I’m currently working at: Thrillers Group as a Technical officer... hurray  :triumph: :triumph:
