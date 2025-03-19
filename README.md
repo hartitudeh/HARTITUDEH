@@ -2,7 +2,7 @@
 !I gotta :gift: for you
 
 
-<h3> :I AM Adeyemi Pelumi (a.k.a)--- Hartitudeh_Tech: &nbsp;About Me </h3> 
+<h3> :I AM Adeyemi Pelumi (a.k.a) Hartitudeh CryptoTech: &nbsp;About Me </h3> 
 <p>
 I am a talented and seasoned web engineer who is passionate about writing original and effective code. I have more than 3 years of experience in the field and a background in computer science, and I have a track record of producing high-quality software on schedule and within budget.
 
